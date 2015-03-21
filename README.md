@@ -2,7 +2,7 @@
 An example on how to have custom ingame date and time spans
 
 This is the output for a 2hr (realtime) in-game day length
-
+```
 CustomInGameTime Test
 Using Today (03/21/2015 00:00:00) inGame Time is 00000	00 00:00  -->  00 12:00 AM
 
@@ -1448,3 +1448,4 @@ stamp	  24hr           12hr
 86340	11 23:47  -->  11 11:47 PM
 86400	12 00:00  -->  12 12:00 AM
 CustomInGameTime Test Finished
+```
